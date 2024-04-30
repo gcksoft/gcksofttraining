@@ -21,7 +21,7 @@ public class StaticAndNonStaticMethodDemo {
 		StaticAndNonStaticMethodDemo object = new StaticAndNonStaticMethodDemo();
 		System.out.println(object.k);
 		object.add(2,4);
-		int result = object.add1(3,5);
+		float result = object.add1(3,5);
 		System.out.println(result);
 		
 
